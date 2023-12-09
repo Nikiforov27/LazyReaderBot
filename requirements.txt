@@ -1,0 +1,9 @@
+pyTelegramBotAPI==4.14.0
+bs4==0.0.1
+requests==2.31.0
+fake-useragent==1.4.0
+rhvoice-wrapper==0.8.0
+rhvoice-wrapper-data==0.5.0
+rhvoice-wrapper-bin==0.5.0
+lxml==4.9.3
+scons
